@@ -218,9 +218,6 @@
 </p><div align="center">
   <img src="https://komarev.com/ghpvc/?username=kimoodua&color=9945FF&style=for-the-badge" alt="Views Today"/></div>
   <p align="center" style="background-color: #1E0F3E; border-radius: 10px; padding: 20px; margin: 20px 0;">
-  <strong>Ticket #6953 | www.GimeSol.com | For Sean </strong>
-  <br>
-  <img src="https://i.imgur.com/nz4XIVg.png" alt="Phantom Wallet" width="100" style="margin-top: 10px;"/>
 </p>
 </document_content>
 </document>
